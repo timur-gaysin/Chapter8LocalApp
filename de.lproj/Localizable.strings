@@ -1,2 +1,3 @@
-"greeting-label" = "Hallo Welt"
-"button-label" = "Tipp mich an"
+"greeting-label" = "Hallo Welt";
+"button-label" = "Tipp mich an";
+"placeholder-label" = "hier eingeben";
