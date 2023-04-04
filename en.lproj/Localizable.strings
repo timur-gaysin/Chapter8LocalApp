@@ -1,3 +1,4 @@
-"greeting-label" = "Hello, world";
-"button-label" = "Tap me";
+"greeting-label %@" = "Hello, %@";
+"%lld button-label" = "%lld Tap me";
 "placeholder-label" = "Type here";
+"pi-label %lf" = "Value of pi = %lf";

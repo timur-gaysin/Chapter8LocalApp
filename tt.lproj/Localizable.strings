@@ -1,3 +1,4 @@
-"greeting-label" = "Salam, Denya";
-"button-label" = "Mina basagyz";
+"greeting-label %@" = "Salam, %@";
+"%lld button-label" = "%lld Mina basagyz";
 "placeholder-label" = "Monda yazygyz";
+"pi-label %lf" = "Sanynyn kyymmemete Pi = %lf";
